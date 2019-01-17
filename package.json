@@ -1,0 +1,17 @@
+{
+  "name": "cambot",
+  "version": "0.1.0",
+  "description": "Cameron's personal bot",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Blandford <cam.blandford@gmail.com> (https://blandford.io)",
+  "license": "MIT"
+}
